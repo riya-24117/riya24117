@@ -1,2 +1,2 @@
 # riya24117
-This is my first Git Repository
+This is my 1st Git Repository
